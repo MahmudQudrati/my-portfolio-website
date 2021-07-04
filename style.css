@@ -24,15 +24,14 @@ h1 {
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 }
-.img{
-    width: 440px;
-    height: 480px;
-    margin-left: 20%;
+.right-col .img{
+    width: 80%;
+    margin-left: 15%;
     margin-top: 10%;
 }
 .left-col{
     width: 50%;
-    margin-left: 7%;
+    margin-left: 6%;
     margin-top: 1%;
 }
 .right-col{
@@ -43,6 +42,7 @@ h1 {
     color: gray;
     margin-bottom: 35px;
     padding-right: 20px;
+    text-align: justify;
 }
 .welcome{
     font-size: 65px;
@@ -57,11 +57,28 @@ h1 {
     font-weight: 600;
     letter-spacing: 2px;
 }
-
-
-
-
-
+.dream-big{
+    display: flex;
+    margin-top: 5%;
+}
+.left-column{
+    width: 50%;
+}
+.left-column img{
+    width: 70%;
+    margin-left: 8%;
+}
+.right-column{
+    width: 50%;
+}
+.d{
+    margin-right: 10%;
+    text-align: justify;
+    color: gray;
+}
+.resume{
+    margin-top: 7%;
+}
 
 
 
