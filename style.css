@@ -5,11 +5,14 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .orange-color {
     color: orange;
+}
+.o{
+    margin-top: -35px;
 }
 
 .weight {
@@ -20,15 +23,15 @@ h1 {
     display: flex;
 }
 .img{
-    width: 450px;
-    height: 500px;
+    width: 440px;
+    height: 480px;
     margin-left: 20%;
     margin-top: 10%;
 }
 .left-col{
     width: 50%;
     margin-left: 2%;
-    margin-top: 3%;
+    margin-top: 1%;
 }
 .right-col{
     width: 50%;
