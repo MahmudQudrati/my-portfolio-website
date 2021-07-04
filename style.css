@@ -20,8 +20,8 @@ h1 {
     display: flex;
 }
 .img{
-    width: 550px;
-    height: 600px;
+    width: 450px;
+    height: 500px;
     margin-left: 20%;
     margin-top: 10%;
 }
@@ -34,9 +34,10 @@ h1 {
     width: 50%;
 }
 .para{
-    font-size: 24px;
+    font-size: 18px;
     color: gray;
     margin-bottom: 35px;
+    padding-right: 20px;
 }
 .welcome{
     font-size: 65px;
